@@ -9,6 +9,7 @@ public class SpawnObstacle : MonoBehaviour
     public float timeBetweenSpawn;
     private float spawnTime;
 
+
     // Update is called once per frame
     void Update()
     {
